@@ -21,7 +21,7 @@ Lead.
 
 ---
 
-Leads are the  entities constituting a first contact. Leads can be created by a system users or by a web-user. When a lead is created minimal info (name,email) is entered and the lead is (default) linked to the active system user, the owner of the lead  A user configurable drop list is used to classify Status of the lead (Open, Replied etc)
+Leads are the  entities constituting a first contact. Leads can be created by a system users or by a web-user. When a lead is created minimal info (name, email) is entered and the lead is (default) linked to the active system user; the owner of the lead.  A user configurable drop list is used to classify Status of the lead (Open, Replied etc.)
 
 To create a Lead, go to:
 
@@ -34,7 +34,7 @@ example what is the source, how likely are they to give you business etc. If
 you have a healthy number of leads, this information will help you prioritize
 who you want to work with.
 
-> **Tip:** ERPNext makes it easy to follow-up on leads by updating the “Next
+> **TIP** ERPNext makes it easy to follow-up on leads by updating the “Next
 Contact” details. This will add a new event in the Calendar for the User who
 has to contact the lead next.
 
