@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Admission
 
-The Admission section allow you to create all records starting from Student application till the program enrollment. Below is the list of documents for Student addmission.
+The Admission section allows you to create all records starting from Student Application till the Program Enrollment. Below is the list of documents for Student Admission.
 
 ### Topics
 
