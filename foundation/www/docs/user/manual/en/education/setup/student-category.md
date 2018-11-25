@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Student Category
 
-Student Category doctype allow you to classify student based various categories. In Institutions, there may be fee concession for some categories such as Handicapped students, foreign, nationals, reserved category by the government etc.
+Student Category doctype allows you to classify student based various categories. In Institutions, there may be fee concession for categories such as Handicapped students, foreign nationals, reserved category by the government etc.
 
 To create Student category go to:
 
