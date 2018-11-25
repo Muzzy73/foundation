@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Program Enrollment
 
-**Program Enrollment** is the record of enrollment of a student in a given program and choose courses for a particular Academic Year and Academic Term (optional). If a student is enrolled in a program then his/her Program Enrollment must be created. The mandatory course in that program is automatically filled in Enrolled Courses table while the elective/optional courses can be selected manually.
+**Program Enrollment** is the record of enrollment of a student in a given program who has chosen a particular Academic Year and Academic Term (optional). If a student is enrolled in a program then her/his Program Enrollment must be created. The mandatory course in that program is automatically filled in Enrolled Courses table while the elective/optional courses can be selected manually.
 
 If the student has applied online for the admission in a particular **Program** and the application is approved, then the Program Enrollment can be created from within the Student Applicant record via clicking on the **Enroll** button.
 
