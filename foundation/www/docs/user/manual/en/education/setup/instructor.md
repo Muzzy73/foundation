@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Instructor
 
-An Instructor can be a teacher, tutor, coach, or professor, of a specialised subject that involves any skill.
+An Instructor can be a teacher, tutor, coach, or professor of a specialised subject.
 
 To create new Instructor go to:
 
@@ -9,7 +9,7 @@ To create new Instructor go to:
 
 <img class="screenshot" alt="Instructor" src="{{docs_base_url}}/assets/img/education/setup/instructor.png">
 
-An **Instructor** can also be linked to a **Course Schedule**, where you can define the schedule for a **Course** for a give date and **Room no**.
+An **Instructor** can also be linked to a **Course Schedule**, where you can define the schedule for a **Course** for a given date and **Room No.**.
 
 It is also linked to **Student group** where an **Instructor** is assigned to the Student Group.
 
