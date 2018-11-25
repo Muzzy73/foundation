@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Student Attendance
 
-Attendance doctype allows you to track and manage attendance of a student in all the days at any time. The Attendance module is designed to help teachers easily mark student attendance during class. 
+Attendance doctype allows you to track and manage attendance of a student. The Attendance module is designed to help teachers easily mark student attendance during class. 
 
 Attendance Records can be created against Student on daily basis.
 
